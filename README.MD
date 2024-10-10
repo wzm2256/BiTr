@@ -7,7 +7,7 @@ The model is used to solve point cloud assembly problems, where the goal is to a
 
 |Overlapped point clouds| Non-overlapped point clouds| 
 |--------------|--------------|
-<img src="G:\Mycode\BITR\readme_fig\fig1_1_full.png" width="256"/>  | <img src="readme_fig\fig1_3_full.jpg" width="256"/> |
+<img src="readme_fig\fig1_1_full.png" width="256"/>  | <img src="readme_fig\fig1_3_full.jpg" width="256"/> |
 
 
 
