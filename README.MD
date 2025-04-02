@@ -19,7 +19,7 @@ BITR (SE(3)-bi-equivariant Transformers) is used to solve point cloud assembly p
 BITR has 3 nice properties:
 1. BITR is **SE(3)-bi-equivariant**: its performance is not influence by the initial input position. This implies that it does not need to be iterative like ICP.
 2. BITR is **swap-equivariant**: its result is consistent when the inputs are swapped.
-3. BITR is **swap-equivariant**: its result is consistent when the inputs are scaled.
+3. BITR is **scale-equivariant**: its result is consistent when the inputs are scaled.
 
 In addition, it does not assume that the inputs are overlapped.
 
