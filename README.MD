@@ -6,7 +6,7 @@
 
 -----
 
-This model has been superceded by our [Eda model](https://github.com/wzm2256/Eda), which assembles multi-pieces non-overlapped point clouds.
+#### This model has been superceded by our [Eda model](https://github.com/wzm2256/Eda), which assembles multi-pieces non-overlapped point clouds.
 -----
 
 
