@@ -4,6 +4,11 @@
 #### I am looking for a machine learning engineer/ machine learning researcher position in EU. If you know any opening position, please do not hesitate to contact me! My linkedin page: [Ziming Wang](https://www.linkedin.com/in/ziming-wang-50856916a/)
 -----
 
+-----
+
+This model has been superceded by our [Eda model](https://github.com/wzm2256/Eda), which assembles multi-pieces non-overlapped point clouds.
+-----
+
 
 # SE(3)-bi-equivariant Transformers for Point Cloud Assembly
 This is the official implement of the NeurIPS24 paper "SE(3)-bi-equivariant Transformers for Point Cloud Assembly".
