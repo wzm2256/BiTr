@@ -44,7 +44,7 @@ Please see `script.txt` for evaluation on 7-scenes, ASL, ShapeNet (airplane) and
 
 
 ### Checkpoints and Datasets
-1. Checkpoints can be downloaded from https://drive.google.com/file/d/13PWIcqmWm42w6tHlzPTMyoCY5nl0WJbZ/view?usp=sharing . They should be placed at the `./saved_model` folder.
+1. Checkpoints can be downloaded from https://drive.google.com/file/d/1JS2i2_gEUay3ZidDcMOO36EIkgkMBuz2/view?usp=sharing . They should be placed at the `./saved_model` folder.
 2. The processed dataset can be downloaded from https://drive.google.com/file/d/13PWIcqmWm42w6tHlzPTMyoCY5nl0WJbZ/view?usp=sharing. They should be placed at the `./Data` folder.
 
 
